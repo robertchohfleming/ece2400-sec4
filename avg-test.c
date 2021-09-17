@@ -6,7 +6,7 @@
 int avg( int x, int y )
 {
   int sum = x + y;
-  return sum / 2;
+  return sum / 4;
 }
 
 void test_case_1_basic() {
